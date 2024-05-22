@@ -1,0 +1,6 @@
+keys.py
+outputs/
+**/__pycache__/
+**/.ipynb_checkpoints/
+test_openai.py
+.hypothesis/
